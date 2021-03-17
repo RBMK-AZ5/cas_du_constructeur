@@ -1,0 +1,2 @@
+C:\Users\Seifeddine\Desktop\Visual Studio C++\Cas_du__constrcteur_de_recopie\Debug\Cas_du__constrcteur_de_recopie.exe
+C:\Users\Seifeddine\Desktop\Visual Studio C++\Cas_du__constrcteur_de_recopie\Debug\Cas_du__constrcteur_de_recopie.pdb
